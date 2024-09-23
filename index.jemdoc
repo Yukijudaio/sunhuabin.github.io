@@ -1,10 +1,10 @@
 # jemdoc: addcss{jemdoc.css}
 # jemdoc: addcss{middle-layout.css}
 # jemdoc: nofooter
-= Jianwang Zhai
+= Feng Guo
 
 ~~~
-{}{img_left}{zhaijianwang.jpg}{150}{150}{Jianwang Zhai}
+{}{img_left}{guofeng.jpg}{150}{150}{Feng Guo}
 Jianwang Zhai, Ph.D., Assistant Professor \n
 [https://ic.bupt.edu.cn/ School of Integrated Circuits] \n
 [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
@@ -13,7 +13,7 @@ Email: zhaijw@bupt.edu.cn\n
 ~~~
 
 == BIOGRAPHY
- I am Jianwang Zhai (翟建旺 in Chinese), currently an assistant professor at [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)]. 
+ I am Jianwang Zhai (郭枫 in Chinese), currently an assistant professor at [https://www.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)]. 
  Prior to that, I got my Ph.D. in Computer Science and Technology from [https://www.tsinghua.edu.cn/ Tsinghua University (THU)] in 2023, and received my B.Eng. from [https://www.bjtu.edu.cn/ Beijing Jiaotong University (BJTU)] in 2018.
 
  My research interests include machine learning and optimization methods with applications in EDA, especially power modeling, design space exploration, and physical design.
