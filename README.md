@@ -1,3 +1,3 @@
-# Jianwang Zhai's website
+# Guo Feng's website
 
-* zhaijw@bupt.edu.cn
+* guofeng@bupt.edu.cn
